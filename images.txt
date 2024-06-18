@@ -2,3 +2,4 @@ mysql:8.0.32
 nginx
 eclipse-temurin:21-jre
 ibm-semeru-runtimes:open-21-jre
+caddy
