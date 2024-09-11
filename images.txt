@@ -7,3 +7,4 @@ caddy
 diygod/rsshub:chromium-bundled
 livekit/livekit-server
 livekit/egress
+redis:6.2.14
