@@ -5,3 +5,5 @@ eclipse-temurin:21-jre
 ibm-semeru-runtimes:open-21-jre
 caddy
 diygod/rsshub:chromium-bundled
+livekit/livekit-server
+livekit/egress
