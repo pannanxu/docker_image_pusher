@@ -10,3 +10,4 @@ livekit/livekit-server
 livekit/egress
 redis:6.2.14
 jenkinsci/blueocean
+gradle:8.10.1-jdk17
