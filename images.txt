@@ -9,5 +9,5 @@ diygod/rsshub:chromium-bundled
 livekit/livekit-server
 livekit/egress
 redis:6.2.14
-jenkinsci/blueocean
+jenkins/jenkins:lts-jdk17
 gradle:8.10.1-jdk17
