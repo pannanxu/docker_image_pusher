@@ -11,4 +11,4 @@ livekit/egress
 redis:6.2.14
 jenkins/jenkins:lts-jdk17
 gradle:8.10.1-jdk17
-minio/minio
+--platform=linux/amd64 minio/minio
