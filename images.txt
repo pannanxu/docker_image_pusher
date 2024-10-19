@@ -2,7 +2,9 @@ mysql:8.0.32
 postgis/postgis:16-3.4
 nginx
 eclipse-temurin:21-jre
+eclipse-temurin:21-jdk
 eclipse-temurin:17-jdk
+eclipse-temurin:17-jre
 ibm-semeru-runtimes:open-21-jre
 caddy
 diygod/rsshub:chromium-bundled
