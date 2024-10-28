@@ -15,3 +15,4 @@ jenkins/jenkins:lts-jdk17
 gradle:8.10.1-jdk17
 --platform=linux/amd64 minio/minio
 --platform=linux/amd64 minio/minio:RELEASE.2024-09-22T00-33-43Z-cpuv1
+--platform=linux/amd64 emqx/emqx:5.8.1
