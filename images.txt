@@ -5,6 +5,8 @@ eclipse-temurin:21-jre
 eclipse-temurin:21-jdk
 eclipse-temurin:17-jdk
 eclipse-temurin:17-jre
+eclipse-temurin:8-jdk
+eclipse-temurin:8-jre
 ibm-semeru-runtimes:open-21-jre
 caddy
 diygod/rsshub:chromium-bundled
